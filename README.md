@@ -22,7 +22,7 @@ Following features are supported :-
 Screen -1: Image is sliced into small bitmaps and randomly displayed on screen.
 Screen-2 : Once the puzzle is solved, sucess toast is shown
 
-#### <b class="icon-folder-open"></i> Process Flow Diagram:--
+#### <b class="icon-folder-open"> Process Flow Diagram:--</b>
 
 
 
