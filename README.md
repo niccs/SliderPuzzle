@@ -1,4 +1,4 @@
-<b>Slider-Puzzle:
+<b> 4*4 Slider-Puzzle: </b>
 ===================
 
 
