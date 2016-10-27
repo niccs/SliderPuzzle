@@ -7,7 +7,7 @@ Features supported:
 -------------
 
 Following features are supported :-
-> **Features:**
+
 
 > - 	4*4 slider puzzle, grid scale is stored in shared preferences, can be customized
 > - 	Clicking on a tile is sliding it to an open space, including multiple tiles legal move
@@ -17,7 +17,7 @@ Following features are supported :-
 > - 	Target SDK is 23 and build tools versions is “23.0.2” and minimum API support is 17(Android 4.2)
 > - Once the puzzle is solved “success” toast message is displayed
 
-#### <b class="icon-file"></i> Screen Flow
+#### <b class="icon-file"> Screen Flow </b>
 
 Screen -1: Image is sliced into small bitmaps and randomly displayed on screen.
 
@@ -35,9 +35,9 @@ Screen-2 : Once the puzzle is solved, sucess toast is shown
 
 
 
-#### <b class="icon-pencil"></i> High Level Process Flow:--
+#### <b class="icon-pencil"> High Level Process Flow:--</b>
 
-<b>View:--
+<b>View:--</b>
 
 1.	PuzzleBoardLayout extends RelativeLayout and is inflated dynamically.
 2.	Each tile is a imageview, which stores coordinates, the image slice, and image slice handle. This handle is used to calculate the completion of puzzle.
@@ -45,7 +45,7 @@ Screen-2 : Once the puzzle is solved, sucess toast is shown
 4.	Each imageView tile registers ontouchlistener.
 5.	This registered event is captured in the PuzzleBoardLayout to check for touch or drag action events.
 
-<b>Processor:--
+<b>Processor:--</b>
 
 1.	ImageProcessor:- 
 a)	This scales the bitmap to PuzzleBoard dimensions.
@@ -55,7 +55,7 @@ c)	Each image is placed on the tile randomly.
 2.	PuzzleProcessor
 a)	This class handles all the processing logic for movement, dragging and then finally swaping the tiles using the TileDataTransferObject(s)
 
-<b>Model:
+<b>Model:</b>
 
 1.	TileDataTransferObject:-
 
