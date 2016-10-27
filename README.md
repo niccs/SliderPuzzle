@@ -20,9 +20,12 @@ Following features are supported :-
 #### <b class="icon-file"></i> Screen Flow
 
 Screen -1: Image is sliced into small bitmaps and randomly displayed on screen.
-Screen-2 : Once the puzzle is solved, sucess toast is shown
+
 
 ![Screen-1](https://cloud.githubusercontent.com/assets/5301598/19755599/c545fbb2-9c62-11e6-9eba-4745ef41ef19.png)
+
+Screen-2 : Once the puzzle is solved, sucess toast is shown
+
 ![Screen-2](https://cloud.githubusercontent.com/assets/5301598/19755592/bc172db8-9c62-11e6-8c65-017c3935dbac.png)
 #### <b class="icon-folder-open"> Process Flow Diagram:--</b>
 
