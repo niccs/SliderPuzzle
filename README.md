@@ -55,7 +55,7 @@ c)	Each image is placed on the tile randomly.
 2.	PuzzleProcessor
 a)	This class handles all the processing logic for movement, dragging and then finally swaping the tiles using the TileDataTransferObject(s)
 
-<b>Model:</b>
+<b><u>Model:</b></u>
 
 1.	TileDataTransferObject:-
 
