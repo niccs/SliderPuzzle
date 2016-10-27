@@ -28,6 +28,7 @@ Screen-2 : Once the puzzle is solved, sucess toast is shown
 
 ![Screen-2](https://cloud.githubusercontent.com/assets/5301598/19755592/bc172db8-9c62-11e6-8c65-017c3935dbac.png)
 #### <b class="icon-folder-open"> Process Flow Diagram:--</b>
+===================
 
 
 ![Process flow diagram](https://cloud.githubusercontent.com/assets/5301598/19755761/a3890568-9c63-11e6-89a4-8895ce53afd7.png)
@@ -36,8 +37,10 @@ Screen-2 : Once the puzzle is solved, sucess toast is shown
 
 
 #### <b class="icon-pencil"> High Level Process Flow:--</b>
+===================
 
 <b>View:--</b>
+
 
 1.	PuzzleBoardLayout extends RelativeLayout and is inflated dynamically.
 2.	Each tile is a imageview, which stores coordinates, the image slice, and image slice handle. This handle is used to calculate the completion of puzzle.
