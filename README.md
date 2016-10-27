@@ -30,6 +30,10 @@ Screen-2 : Once the puzzle is solved, sucess toast is shown
 #### <b class="icon-folder-open"> Process Flow Diagram:--</b>
 
 
+![Process flow diagram](https://cloud.githubusercontent.com/assets/5301598/19755761/a3890568-9c63-11e6-89a4-8895ce53afd7.png)
+
+
+
 
 #### <b class="icon-pencil"></i> High Level Process Flow:--
 
